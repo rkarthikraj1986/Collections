@@ -1,0 +1,4 @@
+Collections
+===========
+
+Sample application collection
